@@ -1,6 +1,6 @@
 ### Hi there!! My name is Beatriz but feel free to call me Bia! 👋
 
-- 🔭 I’m currently working on back-end!
+- 🔭 I’m currently working on back-end and mobile!
 - 🌱 I’m currently learning Spring Boot, Java and Flutter!
 - 📫 How to reach me: biiatkd@gmail.com
 <div> 
